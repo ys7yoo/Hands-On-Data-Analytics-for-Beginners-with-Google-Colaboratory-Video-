@@ -1,3 +1,35 @@
+# Table of Contents 
+1. EXPLORING DATA WITH GOOGLE COLABORATORY
+  * The Course Overview
+  * Getting Started with Jupyter Notebooks and Google Colaboratoy
+  * Styling with Markdown Language
+  * Representing Mathematical Formulas Using LaTeX
+2. LOADING AND WORKING WITH DATA SOURCES
+  * Loading and Processing Common File Formats
+  * Creating and Modifying SQLite Databases
+  * Selections and Conditions
+  * Grouping and Reorganizing Data
+  * Summarizing Results
+3. EXPLORING YOUR DATA WITH NUMPY AND PANDAS
+  * NumPy Array for 1D Data
+  * Panda Series for 1D Data
+  * NumPy Matrix for 2D Data
+  * Pandas Dataframe for 2D Data
+  * Pandas Dataframe for 2D Data (Continued)
+4. PREPARING AND TRANSFORMING DATA
+  * Data Quality
+  * Data Cleaning
+  * Data Cleaning (Continued)
+  * Outlier Detection
+  * Data Transformation
+5. DATA VISUALIZATION WITH MATPLOTLIB
+  * Qualitative Data - 1 QL Variable
+  * Qualitative Data - 2 QL Variables
+  * Quantitative Data - 1 QN Variable
+  * Quantitative Data - 2 QN Variables
+
+
+
 # Hands-On Data Analytics for Beginners with Google Colaboratory [Video]
 This is the code repository for [Hands-On Data Analytics for Beginners with Google Colaboratory [Video]](https://www.packtpub.com/business/hands-data-analytics-beginners-google-colaboratory-video?utm_source=github&utm_medium=repository&utm_campaign=9781788993104), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course

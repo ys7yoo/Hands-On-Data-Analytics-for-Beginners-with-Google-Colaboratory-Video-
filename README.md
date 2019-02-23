@@ -1,5 +1,5 @@
 # Table of Contents 
-1. [EXPLORING DATA WITH GOOGLE COLABORATORY](Exploring Google Colaboratory.ipynb)
+1. EXPLORING DATA WITH GOOGLE COLABORATORY
   * The Course Overview
   * Getting Started with Jupyter Notebooks and Google Colaboratoy
   * Styling with Markdown Language
